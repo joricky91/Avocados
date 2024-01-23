@@ -19,6 +19,7 @@
 		5170290F2B5E704A00C24F8F /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5170290E2B5E704A00C24F8F /* HeaderView.swift */; };
 		517029462B5FC30500C24F8F /* HeaderModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 517029452B5FC30500C24F8F /* HeaderModel.swift */; };
 		517029482B5FC33F00C24F8F /* HeaderData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 517029472B5FC33F00C24F8F /* HeaderData.swift */; };
+		5170294A2B5FC74200C24F8F /* DishesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 517029492B5FC74200C24F8F /* DishesView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		5170290E2B5E704A00C24F8F /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		517029452B5FC30500C24F8F /* HeaderModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderModel.swift; sourceTree = "<group>"; };
 		517029472B5FC33F00C24F8F /* HeaderData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderData.swift; sourceTree = "<group>"; };
+		517029492B5FC74200C24F8F /* DishesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DishesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				5170290A2B5A5D7900C24F8F /* SettingsView.swift */,
 				5170290C2B5A5D8A00C24F8F /* AppView.swift */,
 				5170290E2B5E704A00C24F8F /* HeaderView.swift */,
+				517029492B5FC74200C24F8F /* DishesView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 				517029072B5A5D5700C24F8F /* AvocadosView.swift in Sources */,
 				517029462B5FC30500C24F8F /* HeaderModel.swift in Sources */,
 				517029482B5FC33F00C24F8F /* HeaderData.swift in Sources */,
+				5170294A2B5FC74200C24F8F /* DishesView.swift in Sources */,
 				5170290F2B5E704A00C24F8F /* HeaderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
